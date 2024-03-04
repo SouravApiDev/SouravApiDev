@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/SouravApiDev/SouravApiDev/main/banner.gif">
 <h1 align="center">Hi 👋, I'm Sourav Ghosh</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
